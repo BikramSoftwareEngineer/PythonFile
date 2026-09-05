@@ -1,3 +1,3 @@
 # PythonFile
-This is my first github all python lab code  .....   
+This is my all assignment of python lab<br>  
 Author : bikram chowhan
