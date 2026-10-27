@@ -1,0 +1,6 @@
+RollNo,Name,TotalMarks,AverageMarks,Grade
+101,Aarav Sharma,341.0,85.25,A
+102,Priya Verma,365.0,91.25,A+
+103,Rahul Gupta,275.0,68.75,C
+104,Ananya Iyer,325.0,81.25,A
+105,Vikram Singh,235.0,58.75,D

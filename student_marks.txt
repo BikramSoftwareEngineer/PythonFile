@@ -1,0 +1,6 @@
+RollNo,Name,Maths,Physics,Chemistry,English
+101,Aarav Sharma,85,90,78,88
+102,Priya Verma,92,88,95,90
+103,Rahul Gupta,65,70,68,72
+104,Ananya Iyer,78,82,80,85
+105,Vikram Singh,55,60,58,62

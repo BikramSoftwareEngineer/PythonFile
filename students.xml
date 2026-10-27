@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<Students>
+  
+  
+  
+  
+  <Student id="S001">
+    
+    
+    
+    
+    <Name>Alice Smith</Name>
+    
+    
+    
+    
+    <Age>20</Age>
+    
+    
+    
+    
+    <Course>Computer Science</Course>
+    
+    
+    
+    
+    <Grade>A</Grade>
+    
+    
+  
+  
+  </Student>
+  
+  
+
+  
+  <Student id="S002">
+    
+    
+    <Name>Bob Jones</Name>
+    
+    
+    <Age>22</Age>
+    
+    
+    <Course>Mathematics</Course>
+    
+    
+    <Grade>A-</Grade>
+    
+  
+  </Student>
+  
+
+</Students>
