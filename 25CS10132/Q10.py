@@ -3,15 +3,6 @@ def print_matrix(matrix):
         print(row)
     print()
 
-
-# my name is 
-
-
-
-# bikram chowhan
-
-
-
 def matrix_addition(A, B):
     if len(A) != len(B) or len(A[0]) != len(B[0]):
         raise ValueError("Matrices must have the same dimensions for addition.")
