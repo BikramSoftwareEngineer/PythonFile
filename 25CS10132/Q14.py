@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 
-# bikram chowhan
+
 def poly2(x, a, b, c):
     return a * x**2 + b * x + c
 
